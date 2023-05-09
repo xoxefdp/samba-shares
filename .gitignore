@@ -1,6 +1,6 @@
 variants
 variants.tar
 .DS_Store
-docker-compose.yml.bak
+docker-compose.yml
 .env*
 !.env.example
